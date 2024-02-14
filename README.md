@@ -1,5 +1,15 @@
 # AgGridSsrm
 
+## Run this project
+
+Run `npm install`
+
+Run `npm start`
+
+Open [localhost:4200](http://localhost:4200)
+
+## The issue
+
 This repository should demonstrate my issue with AG Grid with the usage of the Server Side Row Model.
 
 It should demonstrate the issue of the sort model being empty as soon as the pivot mode gets enabled.
